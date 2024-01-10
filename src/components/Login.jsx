@@ -9,8 +9,8 @@ const Login= (props) =>{
 
     const handleAuth = ()=>{
        navigate('/');
-      }
-  
+    }
+    
 
     return (
     <Container>

@@ -45,7 +45,7 @@ const ImgSlider = (props)=>{
             <Wrap>
 
                 <Link to="/detail/Avatar: The Way of Water">
-                    <img src="https://assets-in.bmscdn.com/discovery-catalog/events/et00037264-jlqcesmvcx-landscape.jpg"  width="100%" height="400vh"  alt="" />
+                    <img src="https://4kwallpapers.com/images/wallpapers/avatar-the-way-of-water-avatar-2-2022-movies-sam-3440x1440-8963.jpg"  width="100%" height="400vh"  alt="" />
                   </Link>
             </Wrap>
         </Carousel>
@@ -54,6 +54,7 @@ const ImgSlider = (props)=>{
 
 const Carousel = styled(Slider)`
   margin-top: 20px;
+
   & > button {
     opacity: 0;
     height: 100%;
